@@ -1,0 +1,13 @@
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.csprojAssemblyReference.cache
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.AssemblyInfoInputs.cache
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.AssemblyInfo.cs
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.exe
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.deps.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.runtimeconfig.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.runtimeconfig.dev.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.dll
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\bin\Debug\netcoreapp3.1\TechJobsOO.pdb
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.dll
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.pdb
+C:\Users\Matthew\Source\Repos\csharp-web-dev-techjobs-oo\TechJobsOO\obj\Debug\netcoreapp3.1\TechJobsOO.genruntimeconfig.cache
